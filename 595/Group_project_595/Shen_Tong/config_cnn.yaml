@@ -1,0 +1,13 @@
+# Configuration for mnist training
+
+n_epoches: 2
+
+batch_size: 64
+
+lr: 0.005
+
+patience: 5
+
+gamma: 1e-4
+
+criterion: CrossEntropyLoss

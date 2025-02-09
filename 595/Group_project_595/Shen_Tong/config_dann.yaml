@@ -1,0 +1,15 @@
+# Configuration for mnist-m training
+
+n_epoches: 100
+
+batch_size: 128
+
+F_lr: 0.001
+
+P_lr: 0.001
+
+D_lr: 0.001
+
+gamma: 1e-4
+
+labmda: 0.1

@@ -1,0 +1,11 @@
+**/*.zip
+**/*.rar
+**/*.tar
+**/*.pdf
+**/*.tex
+**/*.h5
+
+595/Hw6/train_catvnoncat.h5
+595/Hw6/test_catvnoncat.h5
+
+data/
