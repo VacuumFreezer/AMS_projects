@@ -2,6 +2,7 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
+# Decorator to ensure double precision
 def double_dec(func):
     def wrapper(*args):
         args = tuple(np.double(arg) for arg in args)
